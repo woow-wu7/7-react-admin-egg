@@ -7,3 +7,15 @@
 ### (2) MySql
 - [安装-免费的社区版本-最底部-MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
 - [教程](https://blog.csdn.net/qq_34889607/article/details/80613028)
+
+### (3) egg链接数据库
+- cnpm install egg-mysql -S
+- [教程](https://www.jianshu.com/p/6a6f80adcb06)
+- 报错：`Client does not support authentication protocol requested by server`
+- 原因：mysql修改了密码的验证方式
+- 解决：
+  - 管理员方式打开cmd => 登陆mysql
+  - 1. ` mysql -u root -p `
+  - 2. ` use mysql `
+  - 3. ` ALTER USER 'root'@'localhost'IDENTIFIED WITH mysql_native_password BY 'mysql密码'; `
+  - 4. ` FLUSH PRIVILEGES; `
