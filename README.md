@@ -1,33 +1,9 @@
 # 7-react-admin-egg
 
+### (1) Navicat
+- [破解安装 - 已下载到自己的百度网盘](https://zhuanlan.zhihu.com/p/235178693)
+- [使用教程](https://blog.csdn.net/sisure_shen/article/details/81042254)
 
-
-## QuickStart
-
-<!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
-
-### Development
-
-```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
-```
-
-### Deploy
-
-```bash
-$ npm start
-$ npm stop
-```
-
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
-[egg]: https://eggjs.org
+### (2) MySql
+- [安装-免费的社区版本-最底部-MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+- [教程](https://blog.csdn.net/qq_34889607/article/details/80613028)
