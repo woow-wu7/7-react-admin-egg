@@ -47,5 +47,10 @@ module.exports = appInfo => {
   return {
     ...config,
     ...userConfig,
+    security: {
+      csrf: {
+        enable: false, // 关闭框架默认得csrf插件
+      },
+    },
   };
 };

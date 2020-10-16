@@ -19,3 +19,18 @@
   - 2. ` use mysql `
   - 3. ` ALTER USER 'root'@'localhost'IDENTIFIED WITH mysql_native_password BY 'mysql密码'; `
   - 4. ` FLUSH PRIVILEGES; `
+
+### (4) 腾讯云centos安装nginx
+- [教程](https://www.cnblogs.com/wangcongxing/p/12520170.html)
+
+### (5) 腾讯云centos安装mysql
+- [教程](https://www.cnblogs.com/yangyang2018/p/10798859.html)
+- [教程2](https://www.solves.com.cn/it/wlyx/fwq/2019-08-07/2919.html)
+
+### (6) post请求报错
+- [资料](https://juejin.im/post/6844904120818597895#heading-4)
+
+### (x) 项目
+- [线上](https://juejin.im/post/6844903870498357255)
+
+
