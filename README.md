@@ -30,6 +30,12 @@
 ### (6) post请求报错
 - [资料](https://juejin.im/post/6844904120818597895#heading-4)
 
+
+### (7) Sequelize - ORM 框架
+- [官网](https://eggjs.org/zh-cn/tutorials/sequelize.html)
+- [教程](https://juejin.im/post/6844903961489571853)
+- [教程2](https://www.cnblogs.com/crazycode2/p/12445929.html)
+
 ### (x) 项目
 - [线上](https://juejin.im/post/6844903870498357255)
 
