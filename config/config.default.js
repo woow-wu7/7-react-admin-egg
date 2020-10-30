@@ -23,9 +23,9 @@ module.exports = appInfo => {
     // 单数据库信息配置
     client: {
       // host
-      host: 'localhost',
+      host: '49.233.215.163',
       // 端口号
-      port: '3306',
+      port: '3308',
       // 用户名
       user: 'root',
       // 密码
@@ -40,8 +40,7 @@ module.exports = appInfo => {
     app: true,
     // 是否加载到 agent 上，默认关闭
     agent: false,
-
-  }
+  };
 
   // sequelize
   // config.sequelize = {
